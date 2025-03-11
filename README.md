@@ -17,9 +17,6 @@ Este repositorio contiene el desarrollo de la prueba técnica solicitada para el
 
 Aunque el tiempo estimado para la prueba era de 3 días, la entrego lo antes posible tras retomar contacto, con la intención de mostrar compromiso y disposición en el proceso.
 
-## 📞 Contacto
-
-
 ---
 
 Gracias por la oportunidad. Quedo atento a cualquier comentario o retroalimentación.
