@@ -5,8 +5,9 @@ Este repositorio contiene el desarrollo de la prueba técnica solicitada para el
 ## 📁 Estructura del Repositorio
 
 - `PRUEBA TÉCNICA SKANDIA.docx`: Documento en Word con las respuestas y explicaciones detalladas.
-- `PruebaTecnica Skandia FANC.zip`: Archivo comprimido que contiene los ejercicios prácticos desarrollados.
-
+- `SkandiaPOO (Los ejercicios de lógica)`: Archivo comprimido que contiene los ejercicios prácticos desarrollados.
+- `EJERCICIOSQL.Sql (Los Query's de Sql)`: Archivo comprimido que contiene los ejercicios prácticos de SQL.
+  
 ## 🛠️ Tecnologías Utilizadas
 
 - C#
