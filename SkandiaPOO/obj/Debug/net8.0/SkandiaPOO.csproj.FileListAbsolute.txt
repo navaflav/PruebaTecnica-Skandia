@@ -1,0 +1,14 @@
+C:\Proyecto\SkandiaPOO\bin\Debug\net8.0\SkandiaPOO.exe
+C:\Proyecto\SkandiaPOO\bin\Debug\net8.0\SkandiaPOO.deps.json
+C:\Proyecto\SkandiaPOO\bin\Debug\net8.0\SkandiaPOO.runtimeconfig.json
+C:\Proyecto\SkandiaPOO\bin\Debug\net8.0\SkandiaPOO.dll
+C:\Proyecto\SkandiaPOO\bin\Debug\net8.0\SkandiaPOO.pdb
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.AssemblyInfoInputs.cache
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.AssemblyInfo.cs
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.csproj.CoreCompileInputs.cache
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.dll
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\refint\SkandiaPOO.dll
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.pdb
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\SkandiaPOO.genruntimeconfig.cache
+C:\Proyecto\SkandiaPOO\obj\Debug\net8.0\ref\SkandiaPOO.dll
